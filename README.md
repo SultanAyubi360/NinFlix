@@ -42,6 +42,7 @@ With powerful features and beautiful design and Responsive, Admin Panel can mana
 ★ privacy policy pages
 
 ★ AdMob Ads: Banner/Interstitial
+
 ★ StartApp Ads: Banner/Interstitial
 
 ★ Subscription to Unlock Premium content
@@ -78,14 +79,19 @@ With powerful features and beautiful design and Responsive, Admin Panel can mana
 
 # SUPPORTED FILE FORMAT FOR MOVIE & TV-SERIES
 ★ MP4
+
 ★ MKV
+
 ★ HLS/M3U8
+
 ★ Youtube
+
 ★ Firebase
+
 ★ Embed video Links
 
 
-Live TV streaming. Live radio streaming. Movie player. Video content player. Advertisements network Onesignal notification Support HLS, http, m3u8, and MP4 video format Support YouTube videos
+Live TV streaming. Movie player. Video content player. Advertisements network Onesignal notification Support HLS, http, m3u8, and MP4 video format Support YouTube videos
 
 
 ## :tada: CONTACT ME FOR SOURCE CODES_NOW_:
