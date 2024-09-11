@@ -4,7 +4,7 @@
 
 # NinFlix
 
-NinFlix is an Android Movie & WebSeries Application, that runs with a fast and lightweight admin panel. The android app builds with native java, admin panel builds with native java. Organizing Jseries from admin panel, and Movie or WebSeries or Anime, also available Custom User Login System, Add To Favourite and many more.
+NinFlix is an Android Movie & WebSeries Application, that runs with a fast and lightweight admin panel. The android app builds with native java, admin panel builds with native java. Organizing NinFlix from admin panel, and Movie or WebSeries or Anime, also available Custom User Login System, Add To Favourite and many more.
 
 </div>
 
