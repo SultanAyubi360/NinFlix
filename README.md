@@ -4,6 +4,7 @@
 
 # NinFlix
 # Movies - Live Streaming - TV Series, Anime,Live TV
+# NinFlix App – Video App (Youtube channel + live streaming URL + m3u8 support ) + admob + onesignal + firebase
 NinFlix App – TV Series – Live TV Channels – TV Cast system which run under Android platform that used for your own application. With powerful features and beautiful design and Responsive Admin Panel can manage Movies,Tv Shows,Live TV Channels,Slides,categories, users,notifications and others. 
 
 NinFlix App is a free & paid video streaming Android App like NetFlix and amazon prime with some subscription place built into it.
