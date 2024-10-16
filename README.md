@@ -25,6 +25,22 @@ With powerful features and beautiful design and Responsive, Admin Panel can mana
 
 ★ TV Live Channels URL Supported
 
+★ Top Rated Movies / TV Series
+
+★ Popular Movies / TV Series
+
+★ Latest content for each genre
+
+★ TV Live Channels Page : filtre with categories and countries
+
+★ Seasons List
+
+★ Episodes List
+
+★ Related Video
+
+★ Downladed Movies / Eposides
+
 ★ Latest content for each Category
 
 ★ Category Page: filter Videos with a Categories
