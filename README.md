@@ -77,7 +77,7 @@ With powerful features and beautiful design and Responsive, Admin Panel can mana
 
 ★ Subscription Plans
 
- Customized youtube player (User can’t click on youtube button in Player, so can’t get actual video URL so video is private forever).
+## :tada: Customized youtube player (User can’t click on youtube button in Player, so can’t get actual video URL so video is private forever).
 
 
 # Admin Panel:
@@ -130,6 +130,7 @@ With powerful features and beautiful design and Responsive, Admin Panel can mana
 
 # SUPPORTED FILE FORMAT FOR LIVE TV
 ★ HLS/M3U8
+
 ★ Supports Video Quality (4k, 1080p, 720p) Selection on Video Player
 
 # SUPPORTED FILE FORMAT FOR MOVIE & TV-SERIES
