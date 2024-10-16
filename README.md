@@ -6,6 +6,8 @@
 # Movies - Live Streaming - TV Series, Anime,Live TV
 NinFlix App – TV Series – Live TV Channels – TV Cast system which run under Android platform that used for your own application. With powerful features and beautiful design and Responsive Admin Panel can manage Movies,Tv Shows,Live TV Channels,Slides,categories, users,notifications and others. 
 
+NinFlix App is a free & paid video streaming Android App like NetFlix and amazon prime with some subscription place built into it.
+
 NinFlix is an Android Movie & WebSeries Application, that runs with a fast and lightweight admin panel. The android app builds with native java, admin panel builds with native java. Organizing NinFlix from admin panel, and Movie or WebSeries or Anime, also available Custom User Login System, Add To Favourite and many more.
 
 </div>
@@ -75,7 +77,7 @@ With powerful features and beautiful design and Responsive, Admin Panel can mana
 
 ★ Subscription Plans
 
-# ★ Customized youtube player (User can’t click on youtube button in Player, so can’t get actual video URL so video is private forever).
+ Customized youtube player (User can’t click on youtube button in Player, so can’t get actual video URL so video is private forever).
 
 
 # Admin Panel:
@@ -128,6 +130,7 @@ With powerful features and beautiful design and Responsive, Admin Panel can mana
 
 # SUPPORTED FILE FORMAT FOR LIVE TV
 ★ HLS/M3U8
+★ Supports Video Quality (4k, 1080p, 720p) Selection on Video Player
 
 # SUPPORTED FILE FORMAT FOR MOVIE & TV-SERIES
 ★ MP4
