@@ -80,9 +80,29 @@ With powerful features and beautiful design and Responsive, Admin Panel can mana
 
 # Admin Panel:
 
-★ Beautiful Admin Panel Design
-
 ★ Mobile View (resposive) Admin panel
+
+★ Manage Channels Categories
+
+★ Manage Genre
+
+★ Manage Actors
+
+★ Manage Countries Subtitles
+
+★ Manage Notifications
+
+★ Manage Versions
+
+★ Manage Comments
+
+★ Manage Rating
+
+★ Manage Ads : AdMob and Facebook Ads
+
+★ Manage Users
+
+★ Manage Slides
 
 ★ Manage Featured Videos Slides
 
@@ -91,6 +111,14 @@ With powerful features and beautiful design and Responsive, Admin Panel can mana
 ★ Manage All Videos / Movies / Trailer / Tv Serries/ Live TV Channels/ Episodes/ Web Series
 
 ★ Manage Sources (MP4/M3U8/MKV/Youtube/Embed video Links) (MP4/MKV files)
+
+★ Manage Movies : Trailer / Sources / Cast / Subtitles
+
+★ Manage TV Serie : Trailer / Episode Sources / Episode Cast / Episode Subtitles
+
+★ Manage Live TV Channel : Sources
+
+★ Manage Sources (MP4/M3U8/MOV/MKV/WEBM/Youtube/Embed video Links) (MP4/MOV/MKV/WEBM files)
 
 ★ Search Any Video
 
