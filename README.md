@@ -150,9 +150,16 @@ With powerful features and beautiful design and Responsive, Admin Panel can mana
 
 Live TV streaming. Movie player. Video content player. Advertisements network Onesignal notification Support HLS, http, m3u8, and MP4 video format Support YouTube videos.
 
+## :heart: Support My Projects 
+However, if you get some profit from this or just want to encourage me to continue creating stuff, there are few ways you can do it. :coffee: :hamburger: :fries: :apple:
+
+* Starring: You may give a star or share the projects you like.
+
 ### Find this useful? ❤️
+
 Support it by joining stargazers to this. ⭐
 
 Also, [follow me on GitHub](https://github.com/SultanAyubi360) for my next creations! 🤩
+
 
 
