@@ -3,7 +3,6 @@
 <img src="https://i.ibb.co/wpmd3ZT/logo.png" height="150" />
 
 # NinFlix
-# Movies - Live Streaming - TV Series, Movies,Live TV Channels
 # NinFlix App – Live Streaming (TV Series, Movies,Live TV Channels) + onesignal + firebase
 NinFlix App – TV Series – Live TV Channels – TV Cast system which run under Android platform that used for your own application. With powerful features and beautiful design and Responsive Admin Panel can manage Movies,Tv Shows,Live TV Channels,Slides,categories, users,notifications and others. 
 
