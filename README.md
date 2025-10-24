@@ -140,14 +140,10 @@ With powerful features and beautiful design and Responsive, Admin Panel can mana
 
 ★ HLS/M3U8
 
-★ Youtube
-
-★ Firebase
-
 ★ Embed video Links
 
 
-Live TV streaming. Movie player. Video content player. Advertisements network Onesignal notification Support HLS, http, m3u8, and MP4 video format Support YouTube videos.
+Live TV streaming. Movie player. Video content player. Advertisements network Onesignal notification Support HLS, http, m3u8, and MP4 video format.
 
 ## :heart: Support My Projects 
 However, if you get some profit from this or just want to encourage me to continue creating stuff, there are few ways you can do it. :coffee: :hamburger: :fries: :apple:
