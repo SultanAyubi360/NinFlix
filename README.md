@@ -144,7 +144,7 @@ The **Admin Dashboard** provides complete control over every aspect of the Ninfl
 
 However, if you get some profit from this or just want to encourage me to continue creating stuff, there are few ways you can do it. ☕ 🍔 🍟 🍎  
 
-* **Starring:** You may give a star ⭐ or share the projects you like.
+ **Starring:** You may give a star ⭐ or share the projects you like.
 
 ### Find this useful? ❤️
 
