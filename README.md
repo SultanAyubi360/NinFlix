@@ -19,11 +19,13 @@ With powerful features and beautiful design and Responsive, Admin Panel can mana
 
 ## :tada: App Features:
 
-★ Simple Amazing App design
+★ Android 16 (SDK 36)
 
-★ Latest Android 13 SDK 33 Supported
+★ Fixed 16 KB Native Library
 
-★ Splash Screen
+★ Post load more on scroll
+
+★ Check Network Availability
 
 ★ A slider on home page (Featured video slide like Any Movies, Tv Series, Live TV Channels, Episodes, Web Series…)
 
@@ -65,13 +67,13 @@ With powerful features and beautiful design and Responsive, Admin Panel can mana
 
 ★ Full Screen landscape and Portrait video play supported
 
-★ Notification by using Onesignal
+★ Media3 ExoPlayer
 
-★ privacy policy pages
+★ Latest UI With Material Design
 
-★ AdMob Ads: Banner/Interstitial
+★ Ads-Networks (Admob,Startapp)
 
-★ StartApp Ads: Banner/Interstitial
+★ Android Studio Code
 
 ★ Subscription to Unlock Premium content
 
@@ -85,6 +87,8 @@ With powerful features and beautiful design and Responsive, Admin Panel can mana
 # Admin Panel:
 
 ★ Mobile View (resposive) Admin panel
+
+★ High Quality Dashboard with all the data counts
 
 ★ Manage Channels Categories
 
@@ -131,8 +135,8 @@ With powerful features and beautiful design and Responsive, Admin Panel can mana
 ★ Search Any Categories
 
 # SUPPORTED FILE FORMAT FOR LIVE TV
-★ HLS/M3U8
-
+★ Containers: MP4, MOV, WebM, MKV, MPEG-TS, MPEG-PS
+★ Streaming: DASH, HLS, SmoothStreaming, RTSP
 ★ Supports Video Quality (4k, 1080p, 720p) Selection on Video Player
 
 # SUPPORTED FILE FORMAT FOR MOVIE & TV-SERIES
