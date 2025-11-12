@@ -60,6 +60,11 @@ The **Admin Dashboard** provides complete control over every aspect of the Ninfl
 
 ## 📱 User App Features
 - 🎞️ Watch **Movies, Series, Animes, and Live TV**
+- 🔑 **Authentication & Profile**
+  - Login and Signup via Email / Firebase Auth
+  - Forgot Password support
+  - Add or update **Profile Image**
+  - Set or edit **Bio / About Me**
 - 💾 Download content for offline viewing (Foreground Download Service)
 - ❤️ Add or remove **Favorites** (Movies, Series, Casts)
 - ⏯️ **Continue Watching** – resume playback anytime
