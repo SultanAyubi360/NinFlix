@@ -2,156 +2,149 @@
 
 <img src="https://i.ibb.co/wpmd3ZT/logo.png" height="150" />
 
-# NinFlix
-# NinFlix App – Live Streaming (TV Streaming, Movies, Web Series, TV Shows & Live TV Channels)
-NinFlix Live TV Application is an app that shows live tv on Android devices. Watch your favorite TV channels Live on your mobile phone with this Android application on your Android device.
+# 🎬 NinFlix – Live Streaming & OTT Android App
+
+![Kotlin](https://img.shields.io/badge/Built%20with-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Firebase](https://img.shields.io/badge/Powered%20by-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![License](https://img.shields.io/github/license/SultanAyubi360/NinFlix?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/SultanAyubi360/NinFlix?style=for-the-badge&color=brightgreen)
+![Android](https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android&logoColor=white)
+
+---
+
+**NinFlix** is a powerful, feature-rich **live streaming and on-demand entertainment platform** built for Android.  
+It provides seamless access to **Movies, Series, Animes, and Live TV Channels**, all managed through a robust **Admin Panel** that controls content, users, and updates in real time.
+
+---
+
+## 🌟 Key Highlights
+- 🎥 Stream **Movies, Series, Animes & Live TV**
+- ⚙️ Fully functional **Admin Panel**
+- 📲 Optimized for **Android SDK 16+**
+- 💾 Lightweight native libraries (~16 KB)
+- 🧩 Supports **HD, Full HD, and 4K** content streaming
+- 🧠 Built using modern **Android Jetpack** components
+- 🔒 Secure, scalable, and Firebase-powered backend
+
+---
+
+## 🎬 Video Quality & Playback
+NinFlix ensures smooth, adaptive streaming across multiple quality levels for every type of content:
+
+| Quality Level | Resolution | Use Case |
+|----------------|-------------|-----------|
+| **SD (480p)** | Standard Definition | Low bandwidth or mobile data |
+| **HD (720p)** | High Definition | Default for most users |
+| **Full HD (1080p)** | Crisp clarity | Recommended for stable Wi-Fi |
+| **4K UHD** | Ultra HD | Premium users & smart devices |
+
+🎧 Audio and video automatically adapt based on network speed using **adaptive bitrate streaming (HLS, DASH)**.  
+NinFlix also supports **DRM-protected content (Widevine, ClearKey)** for secure premium playback.
+
+---
+
+## 🧑‍💼 Admin Panel Features
+The **Admin Dashboard** allows full control over all aspects of the platform:
+- ➕ Add / Update / Delete:
+  - Movies, Series, Animes, TV Channels
+  - Seasons, Episodes, and Cast Members
+- 🧠 Manage:
+  - Content metadata, thumbnails, and multi-quality links
+  - User accounts, subscriptions, and activity logs
+- 📡 Notifications:
+  - Send instant updates or error reports (e.g., not working channels)
+  - Receive admin alerts in real time
+- 🔧 Analytics:
+  - Track active users, watch history, and downloads
+
+---
+
+## 📱 User App Features
+- 🎞️ Watch **Movies, Series, Animes, and Live TV**
+- 💾 Download content for offline viewing (Foreground Download Service)
+- ❤️ Add or remove **Favorites** (Movies, Series, Casts)
+- ⏯️ **Continue Watching** – resume playback anytime
+- 🔢 Choose between multiple streaming **qualities (SD / HD / 4K)**
+- 🌐 Play from **embedded sources** (Dailymotion, Okru, MediaFire, etc.)
+- 🔔 Receive **custom notifications** from Admin
+- 🧭 In-app **network availability & VPN protection**
+- 🪶 Lightweight and **battery-optimized**
+- 🌗 **Dark / Light mode** theme support
+- 🧩 Smooth animations and material transitions
+
+---
+
+## 🧰 Core Technologies
+- **Kotlin + Java**  
+- **ExoPlayer** for adaptive HLS / DASH streaming  
+- **Firebase Suite** (Auth, Firestore, Realtime Database, Storage, Functions, FCM, Crashlytics, Analytics)  
+- **Fetch2** for downloads  
+- **Glide** for image loading  
+- **OAuth2 + Firestore** for custom notifications and admin control  
+- **Material Design 3** for clean, modern UI  
+
+---
+
+## ⚡ Performance & Optimization
+- 🚀 Built with **Android SDK 16+** and **NDK r29**
+- 🧠 Optimized for **speed and memory efficiency**
+- 🔒 **ProGuard** and **resource shrinking** enabled
+- 🔋 Minimal CPU load during playback and background downloads
+- 💬 Handles **network interruptions** gracefully with automatic reconnection
+
+---
+
+## 🔒 Security
+- DRM support (**Widevine, ClearKey**) for premium content
+- Firebase authentication and user verification
+- Scoped storage and runtime permission handling
+- VPN usage detection for secure streaming
+- Foreground service with controlled background tasks
+
+---
+
+## 📸 Screenshots
+*(Add screenshots of your app interface, player screen, and admin dashboard here)*
 
-NinFlix App – TV Series – Live TV Channels – TV Cast system which run under Android platform that used for your own application. With powerful features and beautiful design and Responsive Admin Panel can manage Movies,Tv Shows,Live TV Channels,Slides,categories, users,notifications and others. 
+---
 
-NinFlix App is a free & paid video streaming Android App like NetFlix and amazon prime with some subscription place built into it.
+## 📊 Analytics & Monetization
+- Real-time **usage tracking** via Firebase Analytics  
+- **Crashlytics** for error monitoring  
+- Optional **StartApp Ads SDK** for revenue generation  
 
-NinFlix is an Android Movie & WebSeries Application, that runs with a fast and lightweight admin panel. The android app builds with native java, admin panel builds with native java. Organizing NinFlix from admin panel, and Movie or WebSeries or Anime, also available Custom User Login System, Add To Favourite and many more.
+---
 
-</div>
+## 🧠 Future Enhancements
+- 🌍 Multi-language Servers (Urdu, English, more)
+- 🧾 Subscription tiers with premium quality levels
+- 📺 Chromecast and Smart TV support
 
-NinFlix App can offer a wide variety of award-winning TV shows, movies, anime, documentaries, kids shows, Eduction videos and more.
-With powerful features and beautiful design and Responsive, Admin Panel can manage Videos, Slides, categories, users, and others.
+---
 
-## :tada: App Features:
+## 💬 Contact
+**Developer:** [Sultan Ayubi](mailto:sultanayubi360@gmail.com)  
+**GitHub:** [github.com/SultanAyubi360](https://github.com/SultanAyubi360)
 
-★ Android 16 (SDK 36)
+---
 
-★ Fixed 16 KB Native Library
+## 📝 License
+This project is licensed under the **Apache License 2.0**.  
+See the [LICENSE](LICENSE) file for more information.
 
-★ Post load more on scroll
+---
 
-★ Check Network Availability
+## :heart: Support My Projects  
 
-★ A slider on home page (Featured video slide like Any Movies, Tv Series, Live TV Channels, Episodes, Web Series…)
+However, if you get some profit from this or just want to encourage me to continue creating stuff, there are few ways you can do it. ☕ 🍔 🍟 🍎  
 
-★ TV Live Channels URL Supported
-
-★ Top Rated Movies / TV Series
-
-★ Popular Movies / TV Series
-
-★ Latest content for each genre
-
-★ TV Live Channels Page : filtre with categories and countries
-
-★ Seasons List
-
-★ Episodes List
-
-★ Related Video
-
-★ Downladed Movies / Eposides
-
-★ Latest content for each Category
-
-★ Category Page: filter Videos with a Categories
-
-★ Downloaded Movies / Episodes or Any other videos
-
-★ Similar Video on video details page
-
-★ Download Movies / Tv Series
-
-★ Play Movies / TV series / TV Live channels
-
-★ Play Video with multi-sources m3u8 / mp4 / Youtube / Mkv 
-
-★ Play Video portrait or landscape
-
-★ Search Movies / TV Series / TV Live Channels by using title…
-
-★ Full Screen landscape and Portrait video play supported
-
-★ Media3 ExoPlayer
-
-★ Latest UI With Material Design
-
-★ Ads-Networks (Admob,Startapp)
-
-★ Android Studio Code
-
-★ Subscription to Unlock Premium content
-
-★ Rate app option
-
-★ Subscription Plans
-
-## :tada: Customized youtube player (User can’t click on youtube button in Player, so can’t get actual video URL so video is private forever).
-
-
-# Admin Panel:
-
-★ Mobile View (resposive) Admin panel
-
-★ High Quality Dashboard with all the data counts
-
-★ Manage Channels Categories
-
-★ Manage Genre
-
-★ Manage Actors
-
-★ Manage Countries Subtitles
-
-★ Manage Notifications
-
-★ Manage Versions
-
-★ Manage Comments
-
-★ Manage Rating
-
-★ Manage Ads : AdMob and Facebook Ads
-
-★ Manage Users
-
-★ Manage Slides
-
-★ Manage Featured Videos Slides
-
-★ Manage Video (Add/Edit/Delete)
-
-★ Manage All Videos / Movies / Trailer / Tv Serries/ Live TV Channels/ Episodes/ Web Series
-
-★ Manage Sources (MP4/M3U8/MKV/Youtube/Embed video Links) (MP4/MKV files)
-
-★ Manage Movies : Trailer / Sources / Cast / Subtitles
-
-★ Manage TV Serie : Trailer / Episode Sources / Episode Cast / Episode Subtitles
-
-★ Manage Live TV Channel : Sources
-
-★ Manage Sources (MP4/M3U8/MOV/MKV/WEBM/Youtube/Embed video Links) (MP4/MOV/MKV/WEBM files)
-
-★ Search Any Video
-
-★ Manage Videos Categories
-
-★ Search Any Categories
-
-# SUPPORTED FILE FORMAT FOR LIVE TV
-
-★ Containers: MP4, MOV, WebM, MKV, MPEG-TS, MPEG-PS
-
-★ Streaming: DASH, HLS, SmoothStreaming, RTSP
-
-★ Supports Video Quality (4k, 1080p, 720p) Selection on Video Player
-
-## :heart: Support My Projects 
-However, if you get some profit from this or just want to encourage me to continue creating stuff, there are few ways you can do it. :coffee: :hamburger: :fries: :apple:
-
-* Starring: You may give a star or share the projects you like.
+* **Starring:** You may give a star ⭐ or share the projects you like.
 
 ### Find this useful? ❤️
 
-Support it by joining stargazers to this. ⭐
-
+Support it by joining the stargazers for this repository. ⭐  
 Also, [follow me on GitHub](https://github.com/SultanAyubi360) for my next creations! 🤩
 
+---
 
-
+> 🎥 *NinFlix – Stream everything, anywhere, anytime.*
