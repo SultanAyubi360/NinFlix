@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="https://i.ibb.co/wpmd3ZT/logo.png" height="150" />
+<!-- Banner -->
+<img src="https://i.ibb.co/wpmd3ZT/logo.png" height="180" />
+<br>
+<img src="https://i.ibb.co/album/banner-image.png" width="90%" alt="NinFlix Banner" />
 
 # 🎬 NinFlix – Live Streaming & OTT Android App
 
@@ -9,6 +12,8 @@
 ![Firebase](https://img.shields.io/badge/Powered%20by-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Stars](https://img.shields.io/github/stars/SultanAyubi360/NinFlix?style=for-the-badge&color=brightgreen)
 ![Android](https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android&logoColor=white)
+
+</div>
 
 ---
 
