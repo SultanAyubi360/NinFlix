@@ -103,7 +103,21 @@ The **Admin Dashboard** provides complete control over every aspect of the Ninfl
 ---
 
 ## 📸 Screenshots
-*(Add screenshots of your app interface, player screen, and admin dashboard here)*
+
+### 🧑‍💼 Admin App Screenshots
+*(Show screenshots of your admin dashboard, content management, analytics, notifications, etc.)*  
+<img src="https://i.ibb.co/album/admin-screenshot1.png" width="300" />
+<img src="https://i.ibb.co/album/admin-screenshot2.png" width="300" />
+<img src="https://i.ibb.co/album/admin-screenshot3.png" width="300" />
+
+---
+
+### 📱 User App Screenshots
+*(Show screenshots of user app UI: movies, series, player screen, favorites, download manager, etc.)*  
+<img src="https://i.ibb.co/album/user-screenshot1.png" width="300" />
+<img src="https://i.ibb.co/album/user-screenshot2.png" width="300" />
+<img src="https://i.ibb.co/album/user-screenshot3.png" width="300" />
+
 
 ---
 
