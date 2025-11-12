@@ -128,12 +128,6 @@ The **Admin Dashboard** allows full control over all aspects of the platform:
 
 ---
 
-## 📝 License
-This project is licensed under the **Apache License 2.0**.  
-See the [LICENSE](LICENSE) file for more information.
-
----
-
 ## :heart: Support My Projects  
 
 However, if you get some profit from this or just want to encourage me to continue creating stuff, there are few ways you can do it. ☕ 🍔 🍟 🍎  
