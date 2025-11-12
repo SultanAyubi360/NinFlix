@@ -135,21 +135,12 @@ With powerful features and beautiful design and Responsive, Admin Panel can mana
 ★ Search Any Categories
 
 # SUPPORTED FILE FORMAT FOR LIVE TV
+
 ★ Containers: MP4, MOV, WebM, MKV, MPEG-TS, MPEG-PS
+
 ★ Streaming: DASH, HLS, SmoothStreaming, RTSP
+
 ★ Supports Video Quality (4k, 1080p, 720p) Selection on Video Player
-
-# SUPPORTED FILE FORMAT FOR MOVIE & TV-SERIES
-★ MP4
-
-★ MKV
-
-★ HLS/M3U8
-
-★ Embed video Links
-
-
-Live TV streaming. Movie player. Video content player. Advertisements network Onesignal notification Support HLS, http, m3u8, and MP4 video format.
 
 ## :heart: Support My Projects 
 However, if you get some profit from this or just want to encourage me to continue creating stuff, there are few ways you can do it. :coffee: :hamburger: :fries: :apple:
