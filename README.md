@@ -5,8 +5,8 @@
 <br>
 <img src="https://i.ibb.co/GQ3QkqyL/Screenshot-2025-11-12-181024.png" 
     alt="Banner" 
-     width="600" 
-     height="180" 
+     width="1024" 
+     height="1024" 
      style="object-fit:cover; display:block;" />
 
 # 🎬 NinFlix – Live Streaming & OTT Android App
