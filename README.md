@@ -3,7 +3,7 @@
 <!-- Banner -->
 <img src="https://i.ibb.co/wpmd3ZT/logo.png" height="180" />
 <br>
-<a href="https://sultanayubi360.github.io/NinFlix/banner.html" target="_blank"></a>
+<iframe src="https://sultanayubi360.github.io/NinFlix/banner.html" width="100%" height="400px"></iframe>
 
 
 # 🎬 NinFlix – Live Streaming & OTT Android App
