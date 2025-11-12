@@ -151,4 +151,6 @@ However, if you get some profit from this or just want to encourage me to contin
 Support it by joining the stargazers for this repository. ⭐  
 Also, [follow me on GitHub](https://github.com/SultanAyubi360) for my next creations! 🤩
 
+---
+
 > 🎥 *NinFlix – Stream everything, anywhere, anytime.*
