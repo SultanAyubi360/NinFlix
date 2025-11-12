@@ -116,6 +116,24 @@ The **Admin Dashboard** provides complete control over every aspect of the Ninfl
 
 ---
 
+## 🛠️ Tech Stack
+
+| Layer | Technology |
+|-------|-------------|
+| **Language** | Kotlin + Java |
+| **Player** | ExoPlayer (HLS, DASH, DRM) |
+| **Backend** | Firebase (Firestore, Storage, Realtime DB, Auth, Functions) |
+| **Networking** | OkHttp, Fast Android Networking, Jsoup |
+| **Image Loading** | Glide |
+| **Download Manager** | Fetch2 |
+| **UI / UX** | Material 3, Lottie, CircleImageView, SwipeRevealLayout |
+| **Analytics & Crash Reporting** | Firebase Analytics, Crashlytics |
+| **Notifications** | Firebase FCM + Custom Foreground Handling |
+| **Monetization** | StartApp In-App Ads SDK |
+| **Authentication** | Google OAuth2 Library |
+
+---
+
 ## 💬 Contact
 **Developer:** [Sultan Ayubi](mailto:sultanayubi360@gmail.com)  
 **GitHub:** [github.com/SultanAyubi360](https://github.com/SultanAyubi360)
