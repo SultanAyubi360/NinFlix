@@ -46,6 +46,13 @@ NinFlix ensures smooth, adaptive streaming across multiple quality levels for ev
 🎧 Audio and video automatically adapt based on network speed using **adaptive bitrate streaming (HLS, DASH)**.  
 NinFlix also supports **DRM-protected content (Widevine, ClearKey)** for secure premium playback.
 
+### 📂 Supported Media Formats
+NinFlix supports a wide variety of video formats:
+
+- **Video Files:** MP4, MOV, MKV, WebM, TS  
+- **Streaming Formats:** HLS (.m3u8), DASH (.mpd), Smooth Streaming (.ism)  
+- **Private / Custom MediaItems:** Handled via `buildMediaItem(String url)` for secure playback  
+
 ---
 
 ## 🧑‍💼 Admin Panel Features
@@ -130,13 +137,6 @@ The **Admin Dashboard** provides complete control over every aspect of the Ninfl
 - Real-time **usage tracking** via Firebase Analytics  
 - **Crashlytics** for error monitoring  
 - Optional **StartApp Ads SDK** for revenue generation  
-
----
-
-## 🧠 Future Enhancements
-- 🌍 Multi-language Servers (Urdu, English, more)
-- 🧾 Subscription tiers with premium quality levels
-- 📺 Chromecast and Smart TV support
 
 ---
 
