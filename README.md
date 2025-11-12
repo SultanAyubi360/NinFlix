@@ -4,7 +4,8 @@
 <img src="https://i.ibb.co/wpmd3ZT/logo.png" height="180" />
 <br>
 
-<img width="1142" height="808" src="https://github.com/user-attachments/assets/66df9357-5cd9-4c8983b1-892ef8fd797e" />
+<img src="https://i.postimg.cc/HnL7y8y1/Screenshot-2025-11-12-181024.png" height="800" />
+
 
 # 🎬 NinFlix – Live Streaming & OTT Android App
 
