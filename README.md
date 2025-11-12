@@ -4,6 +4,8 @@
 
 # NinFlix
 # NinFlix App – Live Streaming (TV Streaming, Movies, Web Series, TV Shows & Live TV Channels)
+NinFlix Live TV Application is an app that shows live tv on Android devices. Watch your favorite TV channels Live on your mobile phone with this Android application on your Android device.
+
 NinFlix App – TV Series – Live TV Channels – TV Cast system which run under Android platform that used for your own application. With powerful features and beautiful design and Responsive Admin Panel can manage Movies,Tv Shows,Live TV Channels,Slides,categories, users,notifications and others. 
 
 NinFlix App is a free & paid video streaming Android App like NetFlix and amazon prime with some subscription place built into it.
