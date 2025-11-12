@@ -44,18 +44,12 @@ NinFlix also supports **DRM-protected content (Widevine, ClearKey)** for secure 
 ---
 
 ## 🧑‍💼 Admin Panel Features
-The **Admin Dashboard** allows full control over all aspects of the platform:
-- ➕ Add / Update / Delete:
-  - Movies, Series, Animes, TV Channels
-  - Seasons, Episodes, and Cast Members
-- 🧠 Manage:
-  - Content metadata, thumbnails, and multi-quality links
-  - User accounts, subscriptions, and activity logs
-- 📡 Notifications:
-  - Send instant updates or error reports (e.g., not working channels)
-  - Receive admin alerts in real time
-- 🔧 Analytics:
-  - Track active users, watch history, and downloads
+The **Admin Dashboard** provides complete control over every aspect of the Ninflix platform:
+
+- ➕ **Add / Update / Delete** – Movies, Series, Animes, TV Channels, Seasons, Episodes, and Cast Members  
+- 🧠 **Manage** – Content metadata, thumbnails, multi-quality links, user accounts, subscriptions, and activity logs  
+- 📡 **Notifications** – Send instant updates or error reports (e.g., not working channels) and receive admin alerts in real time  
+- 🔧 **Analytics** – Track active users, watch history, and download statistics  
 
 ---
 
