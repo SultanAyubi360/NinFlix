@@ -120,7 +120,7 @@ The **Admin Dashboard** provides complete control over every aspect of the Ninfl
 
 ### 🧑‍💼 Admin App Screenshots
 <kbd>
-<table>
+<table style="border-collapse: separate; border-spacing: 30px;">
 <tr>
 <br>
 <td align="center"><b>Media 1:</b><br><img src="https://i.ibb.co/JWzgD03Q/1.jpg" width="300"/></td>
