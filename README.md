@@ -123,14 +123,8 @@ The **Admin Dashboard** provides complete control over every aspect of the Ninfl
 <table>
 <tr>
 <br>
-<td>
-<b>Media 1:</b><br>
-<img src="![1](https://github.com/user-attachments/assets/10c71da6-bbd9-42e4-889b-4e06fe75ff92)" width="300"/>
-</td>
-<td align="center">
-<b>Media 2:</b><br>
-<img src="https://i.ibb.co/n8SckX7/Media.jpg" width="300"/>
-</td>
+<td align="center"><b>Media 1:</b><br><img src="https://i.ibb.co/JWzgD03Q/1.jpg" width="300"/></td>
+<td align="center"><b>Media 2:</b><br><img src="https://i.ibb.co/tTQf5Y8C/2.jpg" width="300"/></td>
 </tr>
 </table>
 </kbd>
