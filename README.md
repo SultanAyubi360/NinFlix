@@ -123,7 +123,7 @@ The **Admin Dashboard** provides complete control over every aspect of the Ninfl
 <table>
 <tr>
 <br>
-<td align="center"><b>Media 1:</b><br><img src="https://i.ibb.co/JWzgD03Q/1.jpg" width="300"/></td>
+<td align="center"><b>Media 1:</b><br><img src="https://i.ibb.co/JWzgD03Q/1.jpg" width="300" style="margin-right:40px;"/></td>
 
 <td align="center"><b>Media 2:</b><br><img src="https://i.ibb.co/tTQf5Y8C/2.jpg" width="300"/></td>
 </tr>
