@@ -140,9 +140,28 @@ The **Admin Dashboard** provides complete control over every aspect of the Ninfl
     <td align="center">&nbsp;&nbsp;</td>
     <td align="center"><b>Media 6:</b><br><img src="https://i.ibb.co/Vcsddb1g/6.jpg" width="300"/></td>
   </tr>
+
+  <tr>
+    <td colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Media 7:</b><br><img src="https://i.ibb.co/hFxqbW0X/7.jpg" width="300"/></td>
+    <td align="center">&nbsp;&nbsp;</td>
+    <td align="center"><b>Media 8:</b><br><img src="https://i.ibb.co/ZpRypBt8/8.jpg" width="300"/></td>
+    <td align="center">&nbsp;&nbsp;</td>
+    <td align="center"><b>Media 9:</b><br><img src="https://i.ibb.co/8DdH0Tdx/9.jpg" width="300"/></td>
+  </tr>
+  
+  <tr>
+    <td colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Media 10:</b><br><img src="https://i.ibb.co/67XpWNc6/10.jpg" width="300"/></td>
+  </tr>
 </table>
 </kbd>
-
 
 ---
 
