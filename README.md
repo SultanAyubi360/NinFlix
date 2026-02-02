@@ -131,11 +131,11 @@ The **Admin Dashboard** provides complete control over every aspect of the Ninfl
 <kbd>
 <table>
   <tr>
-    <td align="center"><b>Media 1:</b><br><br><img src="https://i.ibb.co/JWzgD03Q/1.jpg" width="230"/></td>
-    <td align="center">&nbsp;&nbsp;</td>
-    <td align="center"><b>Media 2:</b><br><br><img src="https://i.ibb.co/tTQf5Y8C/2.jpg" width="230"/></td>
-    <td align="center">&nbsp;&nbsp;</td>
-    <td align="center"><b>Media 3:</b><br><br><img src="https://i.postimg.cc/qRQ3bKdG/3.jpg" width="230"/></td>
+    <td align="center"><b>Media 1:</b><br><br><img src="https://i.ibb.co/JWzgD03Q/1.jpg" width="240"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Media 2:</b><br><br><img src="https://i.ibb.co/tTQf5Y8C/2.jpg" width="240"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Media 3:</b><br><br><img src="https://i.postimg.cc/qRQ3bKdG/3.jpg" width="240"/></td>
   </tr>
 
   <tr>
@@ -143,11 +143,11 @@ The **Admin Dashboard** provides complete control over every aspect of the Ninfl
   </tr>
 
   <tr>
-    <td align="center"><b>Media 4:</b><br><br><img src="https://i.ibb.co/XfjwvQW2/4.jpg" width="200"/></td>
-    <td align="center">&nbsp;&nbsp;</td>
-    <td align="center"><b>Media 5:</b><br><br><img src="https://i.ibb.co/Kp3k0Hp4/5.jpg" width="200"/></td>
-    <td align="center">&nbsp;&nbsp;</td>
-    <td align="center"><b>Media 6:</b><br><br><img src="https://i.ibb.co/Vcsddb1g/6.jpg" width="200"/></td>
+    <td align="center"><b>Media 4:</b><br><br><img src="https://i.ibb.co/XfjwvQW2/4.jpg" width="240"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Media 5:</b><br><br><img src="https://i.ibb.co/Kp3k0Hp4/5.jpg" width="240"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Media 6:</b><br><br><img src="https://i.ibb.co/Vcsddb1g/6.jpg" width="240"/></td>
   </tr>
 
   <tr>
@@ -155,11 +155,11 @@ The **Admin Dashboard** provides complete control over every aspect of the Ninfl
   </tr>
 
   <tr>
-    <td align="center"><b>Media 7:</b><br><br><img src="https://i.ibb.co/hFxqbW0X/7.jpg" width="200"/></td>
-    <td align="center">&nbsp;&nbsp;</td>
-    <td align="center"><b>Media 8:</b><br><br><img src="https://i.ibb.co/ZpRypBt8/8.jpg" width="200"/></td>
-    <td align="center">&nbsp;&nbsp;</td>
-    <td align="center"><b>Media 9:</b><br><br><img src="https://i.ibb.co/8DdH0Tdx/9.jpg" width="200"/></td>
+    <td align="center"><b>Media 7:</b><br><br><img src="https://i.ibb.co/hFxqbW0X/7.jpg" width="240"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Media 8:</b><br><br><img src="https://i.ibb.co/ZpRypBt8/8.jpg" width="240"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Media 9:</b><br><br><img src="https://i.ibb.co/8DdH0Tdx/9.jpg" width="240"/></td>
   </tr>
   
   <tr>
@@ -167,7 +167,7 @@ The **Admin Dashboard** provides complete control over every aspect of the Ninfl
   </tr>
 
   <tr>
-    <td align="center"><b>Media 10:</b><br><br><img src="https://i.ibb.co/67XpWNc6/10.jpg" width="200"/></td>
+    <td align="center"><b>Media 10:</b><br><br><img src="https://i.ibb.co/67XpWNc6/10.jpg" width="250"/></td>
   </tr>
 </table>
 </kbd>
