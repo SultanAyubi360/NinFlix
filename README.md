@@ -131,11 +131,11 @@ The **Admin Dashboard** provides complete control over every aspect of the Ninfl
 <kbd>
 <table>
   <tr>
-    <td align="center"><b>Media 1:</b><br><br><img src="https://i.ibb.co/JWzgD03Q/1.jpg" width="230"/></td>
+    <td align="center"><b>Dashboard</b><br><br><img src="https://i.ibb.co/JWzgD03Q/1.jpg" width="230"/></td>
     <td align="center">&nbsp;</td>
-    <td align="center"><b>Media 2:</b><br><br><img src="https://i.ibb.co/tTQf5Y8C/2.jpg" width="230"/></td>
+    <td align="center"><b>Tools</b><br><br><img src="https://i.ibb.co/tTQf5Y8C/2.jpg" width="230"/></td>
     <td align="center">&nbsp;</td>
-    <td align="center"><b>Media 3:</b><br><br><img src="https://i.postimg.cc/qRQ3bKdG/3.jpg" width="230"/></td>
+    <td align="center"><b>Channels</b><br><br><img src="https://i.postimg.cc/qRQ3bKdG/3.jpg" width="230"/></td>
   </tr>
 
   <tr>
@@ -143,11 +143,11 @@ The **Admin Dashboard** provides complete control over every aspect of the Ninfl
   </tr>
 
   <tr>
-    <td align="center"><b>Media 4:</b><br><br><img src="https://i.ibb.co/XfjwvQW2/4.jpg" width="230"/></td>
+    <td align="center"><b>Tv Tools</b><br><br><img src="https://i.ibb.co/XfjwvQW2/4.jpg" width="230"/></td>
     <td align="center">&nbsp;</td>
-    <td align="center"><b>Media 5:</b><br><br><img src="https://i.ibb.co/Kp3k0Hp4/5.jpg" width="230"/></td>
+    <td align="center"><b>Delete Movie/Serie</b><br><br><img src="https://i.ibb.co/Kp3k0Hp4/5.jpg" width="230"/></td>
     <td align="center">&nbsp;</td>
-    <td align="center"><b>Media 6:</b><br><br><img src="https://i.ibb.co/Vcsddb1g/6.jpg" width="230"/></td>
+    <td align="center"><b>Delete Channel</b><br><br><img src="https://i.ibb.co/Vcsddb1g/6.jpg" width="230"/></td>
   </tr>
 
   <tr>
@@ -155,11 +155,11 @@ The **Admin Dashboard** provides complete control over every aspect of the Ninfl
   </tr>
 
   <tr>
-    <td align="center"><b>Media 7:</b><br><br><img src="https://i.ibb.co/hFxqbW0X/7.jpg" width="230"/></td>
+    <td align="center"><b>Add Channel</b><br><br><img src="https://i.ibb.co/hFxqbW0X/7.jpg" width="230"/></td>
     <td align="center">&nbsp;</td>
-    <td align="center"><b>Media 8:</b><br><br><img src="https://i.ibb.co/ZpRypBt8/8.jpg" width="230"/></td>
+    <td align="center"><b>Categories & Add New</b><br><br><img src="https://i.ibb.co/ZpRypBt8/8.jpg" width="230"/></td>
     <td align="center">&nbsp;</td>
-    <td align="center"><b>Media 9:</b><br><br><img src="https://i.ibb.co/8DdH0Tdx/9.jpg" width="230"/></td>
+    <td align="center"><b>Countries & Add New</b><br><br><img src="https://i.ibb.co/8DdH0Tdx/9.jpg" width="230"/></td>
   </tr>
   
   <tr>
@@ -167,8 +167,25 @@ The **Admin Dashboard** provides complete control over every aspect of the Ninfl
   </tr>
 
   <tr>
-    <td align="center"><b>Media 10:</b><br><br><img src="https://i.ibb.co/67XpWNc6/10.jpg" width="250"/></td>
+    <td align="center"><b>Channels Category Wise</b><br><br><img src="https://i.ibb.co/67XpWNc6/10.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Add New Category</b><br><br><img src="https://i.ibb.co/6R3zF7CB/14.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Update & Delete Category</b><br><br><img src="https://i.ibb.co/tMKw0kFs/13.jpg" width="230"/></td>
   </tr>
+
+   <tr>
+    <td colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Add New Country</b><br><br><img src="https://i.ibb.co/sdZxZYrm/11.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Update & Delete Country</b><br><br><img src="https://i.ibb.co/fzn2d3Ff/15.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Not Working Channels</b><br><br><img src="https://i.ibb.co/gL68dqzL/12.jpg" width="230"/></td>
+  </tr>
+  
 </table>
 </kbd>
 
