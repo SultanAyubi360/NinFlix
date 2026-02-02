@@ -52,8 +52,8 @@ NinFlix also supports **DRM-protected content (Widevine, ClearKey)** for secure 
 NinFlix supports a wide variety of video formats:
 
 - **Video Files:** MP4, MOV, MKV, WebM, TS  
-- **Streaming Formats:** HLS (.m3u8), DASH (.mpd), Smooth Streaming (.ism)  
-- **Private / Custom MediaItems:** Handled via `buildMediaItem(String url)` for secure playback  
+- **Streaming Formats:** HLS (.m3u8), DASH (.mpd), DRM-protected content (Widevine, ClearKey), Embedded IPTV  
+- **Private / Custom MediaItems:** Secure and restricted media sources are supported via custom media handling for protected playback 
 
 ---
 
