@@ -119,10 +119,21 @@ The **Admin Dashboard** provides complete control over every aspect of the Ninfl
 ## 📸 Screenshots
 
 ### 🧑‍💼 Admin App Screenshots
-*(Show screenshots of your admin dashboard, content management, analytics, notifications, etc.)*  
-<img src="https://i.ibb.co/album/admin-screenshot1.png" width="300" />
-<img src="https://i.ibb.co/album/admin-screenshot2.png" width="300" />
-<img src="https://i.ibb.co/album/admin-screenshot3.png" width="300" />
+<kbd>
+<table>
+<tr>
+<br>
+<td>
+<b>Media 1:</b><br>
+<img src="https://i.ibb.co/BnkJSxZ/Media-1.jpg" width="300"/>
+</td>
+<td align="center">
+<b>Media 2:</b><br>
+<img src="https://i.ibb.co/n8SckX7/Media.jpg" width="300"/>
+</td>
+</tr>
+</table>
+</kbd>
 
 ---
 
