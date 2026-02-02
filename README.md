@@ -174,7 +174,7 @@ The **Admin Dashboard** provides complete control over every aspect of the Ninfl
     <td align="center"><b>Update & Delete Category</b><br><br><img src="https://i.ibb.co/tMKw0kFs/13.jpg" width="230"/></td>
   </tr>
 
-   <tr>
+  <tr>
     <td colspan="5" align="center">&nbsp;</td>
   </tr>
 
@@ -185,7 +185,14 @@ The **Admin Dashboard** provides complete control over every aspect of the Ninfl
     <td align="center">&nbsp;</td>
     <td align="center"><b>Not Working Channels</b><br><br><img src="https://i.ibb.co/gL68dqzL/12.jpg" width="230"/></td>
   </tr>
-  
+
+  <tr>
+    <td colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Update Channel</b><br><br><img src="https://i.ibb.co/nqfwHByc/16.jpg" width="230"/></td>
+  </tr>
 </table>
 </kbd>
 
