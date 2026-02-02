@@ -122,20 +122,23 @@ The **Admin Dashboard** provides complete control over every aspect of the Ninfl
 <kbd>
 <table>
   <tr>
-    <td align="center"><b>Media 1:</b><br><img src="https://i.ibb.co/JWzgD03Q/1.jpg" width="250"/></td>
+    <td align="center"><b>Media 1:</b><br><img src="https://i.ibb.co/JWzgD03Q/1.jpg" width="300"/></td>
     <td align="center">&nbsp;&nbsp;</td>
-    <td align="center"><b>Media 2:</b><br><img src="https://i.ibb.co/tTQf5Y8C/2.jpg" width="250"/></td>
+    <td align="center"><b>Media 2:</b><br><img src="https://i.ibb.co/tTQf5Y8C/2.jpg" width="300"/></td>
     <td align="center">&nbsp;&nbsp;</td>
-    <td align="center"><b>Media 3:</b><br><img src="https://i.ibb.co/CpVPttDW/3.jpg" width="250"/></td>
+    <td align="center"><b>Media 3:</b><br><img src="https://i.ibb.co/CpVPttDW/3.jpg" width="300"/></td>
   </tr>
 
-  <!-- New row for 4th image -->
   <tr>
-    <td colspan="5" align="center">&nbsp;</td> <!-- optional spacer row -->
+    <td colspan="5" align="center">&nbsp;</td>
   </tr>
 
   <tr>
     <td align="center"><b>Media 4:</b><br><img src="https://i.ibb.co/XfjwvQW2/4.jpg" width="300"/></td>
+    <td align="center">&nbsp;&nbsp;</td>
+    <td align="center"><b>Media 5:</b><br><img src="https://i.ibb.co/Kp3k0Hp4/5.jpg" width="300"/></td>
+    <td align="center">&nbsp;&nbsp;</td>
+    <td align="center"><b>Media 6:</b><br><img src="https://i.ibb.co/Vcsddb1g/6.jpg" width="300"/></td>
   </tr>
 </table>
 </kbd>
