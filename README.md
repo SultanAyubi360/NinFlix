@@ -118,6 +118,15 @@ The **Admin Dashboard** provides complete control over every aspect of the Ninfl
 
 ## 📸 Screenshots
 
+### 📱 User App Screenshots
+*(Show screenshots of user app UI: movies, series, player screen, favorites, download manager, etc.)*  
+<img src="https://i.ibb.co/album/user-screenshot1.png" width="300" />
+<img src="https://i.ibb.co/album/user-screenshot2.png" width="300" />
+<img src="https://i.ibb.co/album/user-screenshot3.png" width="300" />
+
+
+---
+
 ### 🧑‍💼 Admin App Screenshots
 <kbd>
 <table>
@@ -162,15 +171,6 @@ The **Admin Dashboard** provides complete control over every aspect of the Ninfl
   </tr>
 </table>
 </kbd>
-
----
-
-### 📱 User App Screenshots
-*(Show screenshots of user app UI: movies, series, player screen, favorites, download manager, etc.)*  
-<img src="https://i.ibb.co/album/user-screenshot1.png" width="300" />
-<img src="https://i.ibb.co/album/user-screenshot2.png" width="300" />
-<img src="https://i.ibb.co/album/user-screenshot3.png" width="300" />
-
 
 ---
 
