@@ -1,4 +1,4 @@
-<div align="center">
+![1](https://github.com/user-attachments/assets/2e7f6677-2f10-4526-8f37-cdac1aeddab8)<div align="center">
 
 <!-- Banner -->
 <img src="https://i.ibb.co/wpmd3ZT/logo.png" height="180" />
@@ -125,7 +125,7 @@ The **Admin Dashboard** provides complete control over every aspect of the Ninfl
 <br>
 <td>
 <b>Media 1:</b><br>
-<img src="https://i.ibb.co/BnkJSxZ/Media-1.jpg" width="300"/>
+<img src="![1](https://github.com/user-attachments/assets/10c71da6-bbd9-42e4-889b-4e06fe75ff92)" width="300"/>
 </td>
 <td align="center">
 <b>Media 2:</b><br>
