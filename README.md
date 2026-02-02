@@ -1,4 +1,4 @@
-![1](https://github.com/user-attachments/assets/2e7f6677-2f10-4526-8f37-cdac1aeddab8)<div align="center">
+<div align="center">
 
 <!-- Banner -->
 <img src="https://i.ibb.co/wpmd3ZT/logo.png" height="180" />
