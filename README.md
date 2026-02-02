@@ -124,7 +124,7 @@ The **Admin Dashboard** provides complete control over every aspect of the Ninfl
 <tr>
 <br>
 <td align="center"><b>Media 1:</b><br><img src="https://i.ibb.co/JWzgD03Q/1.jpg" width="300"/></td>
-<td align="center" style="background-color: transparent;">
+<td align="center" style="background-color: #00000000;">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </td>
 <td align="center"><b>Media 2:</b><br><img src="https://i.ibb.co/tTQf5Y8C/2.jpg" width="300"/></td>
