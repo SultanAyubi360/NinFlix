@@ -119,11 +119,210 @@ The **Admin Dashboard** provides complete control over every aspect of the Ninfl
 ## 📸 Screenshots
 
 ### 📱 User App Screenshots
-*(Show screenshots of user app UI: movies, series, player screen, favorites, download manager, etc.)*  
-<img src="https://i.ibb.co/album/user-screenshot1.png" width="300" />
-<img src="https://i.ibb.co/album/user-screenshot2.png" width="300" />
-<img src="https://i.ibb.co/album/user-screenshot3.png" width="300" />
+<kbd>
+<table>
+  <tr>
+    <td align="center"><b>Splash Screen</b><br><br><img src="https://i.ibb.co/h1MrYk9H/1.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Dashboard</b><br><br><img src="https://i.ibb.co/KphDTfQt/2.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Dashboard</b><br><br><img src="https://i.ibb.co/6R5HSMHJ/3.jpg" width="230"/></td>
+  </tr>
 
+  <tr>
+    <td colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Dashboard</b><br><br><img src="https://i.ibb.co/Frkw2w2/4.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Dashboard</b><br><br><img src="https://i.ibb.co/xtTnNtZ5/5.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Dashboard</b><br><br><img src="https://i.ibb.co/vCSzWGN4/6.jpg" width="230"/></td>
+  </tr>
+
+  <tr>
+    <td colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Dashboard</b><br><br><img src="https://i.ibb.co/4ZbdCp24/7.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Series</b><br><br><img src="https://i.ibb.co/cSCZgCDq/8.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Movies</b><br><br><img src="https://i.ibb.co/kghjdJyB/10.jpg" width="230"/></td>
+  </tr>
+  
+  <tr>
+    <td colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Search</b><br><br><img src="https://i.ibb.co/R4NLLtVL/9.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>More Options</b><br><br><img src="https://i.ibb.co/HLGhg2pG/18.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Login</b><br><br><img src="https://i.ibb.co/N2nW5NZK/19.jpg" width="230"/></td>
+  </tr>
+
+  <tr>
+    <td colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Create Account</b><br><br><img src="https://i.ibb.co/6cDZh67B/20.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Create Account</b><br><br><img src="https://i.ibb.co/7xQb3yFX/21.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Settings</b><br><br><img src="https://i.ibb.co/8hv1tmk/22.jpg" width="230"/></td>
+  </tr>
+
+  <tr>
+    <td colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Share App</b><br><br><img src="https://i.ibb.co/Kzp6smsz/23.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Show Info</b><br><br><img src="https://i.ibb.co/xqLQ1bXH/11.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Episodes</b><br><br><img src="https://i.ibb.co/C5P9sKNF/12.jpg" width="230"/></td>
+  </tr>
+
+  <tr>
+    <td colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Seasons</b><br><br><img src="https://i.ibb.co/BxMMPrX/13.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Related</b><br><br><img src="https://i.ibb.co/Pvx5ZkcW/14.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Cast</b><br><br><img src="https://i.ibb.co/jkk40vBZ/15.jpg" width="230"/></td>
+  </tr>
+
+  <tr>
+    <td colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Actor/Actress Details</b><br><br><img src="https://i.ibb.co/TBMPP876/16.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Actor/Actress image</b><br><br><img src="https://i.ibb.co/ZRkb43mp/17.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Live TV</b><br><br><img src="https://i.ibb.co/xSMR3yNg/24.jpg" width="230"/></td>
+  </tr>
+
+  <tr>
+    <td colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Countries</b><br><br><img src="https://i.ibb.co/8nGBkv5n/25.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Categories</b><br><br><img src="https://i.ibb.co/847JdvZ3/26.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>All Categories</b><br><br><img src="https://i.ibb.co/JFkgNMVJ/27.jpg" width="230"/></td>
+  </tr>
+
+  <tr>
+    <td colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Favourite Channels</b><br><br><img src="https://i.ibb.co/kVGRDgnj/30.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Mark As Favourite</b><br><br><img src="https://i.ibb.co/ymf29YLw/45.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>View Favourite & Unfavourite</b><br><br><img src="https://i.ibb.co/8DfLZ0Vk/46.jpg" width="230"/></td>
+  </tr>
+
+  <tr>
+    <td colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Country Channels</b><br><br><img src="https://i.ibb.co/pvCTm5Tv/47.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Streaming Player</b><br><br><img src="https://i.ibb.co/j91McYQf/29.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Search Channels</b><br><br><img src="https://i.ibb.co/PGpFjJYF/48.jpg" width="230"/></td>
+  </tr>
+
+  <tr>
+    <td colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Searched</b><br><br><img src="https://i.ibb.co/zTwNPK8w/49.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Play Channel</b><br><br><img src="https://i.ibb.co/HpLvskCq/28.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Favourite Serie</b><br><br><img src="https://i.ibb.co/zVmMMFzv/34.jpg" width="230"/></td>
+  </tr>
+
+  <tr>
+    <td colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Favourite Movie</b><br><br><img src="https://i.ibb.co/rRyC03G2/35.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>My Favourite Series</b><br><br><img src="https://i.ibb.co/LD7WD7jf/36.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>My Favourite Movies</b><br><br><img src="https://i.ibb.co/8DH8RZvS/37.jpg" width="230"/></td>
+  </tr>
+
+  <tr>
+    <td colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>My Favourite Cast</b><br><br><img src="https://i.ibb.co/7xvHgZRB/38.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Multiple Servers</b><br><br><img src="https://i.ibb.co/JwdHPptD/31.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Free Watch</b><br><br><img src="https://i.ibb.co/jCVZdfq/32.jpg" width="230"/></td>
+  </tr>
+
+  <tr>
+    <td colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Multiple Qulaities</b><br><br><img src="https://i.ibb.co/WNbxdckJ/33.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Play Movie/Serie Player</b><br><br><img src="https://i.ibb.co/p56Yf8G/41.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Download Option & Play</b><br><br><img src="https://i.ibb.co/XrTL2Byb/39.jpg" width="230"/></td>
+  </tr>
+
+  <tr>
+    <td colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Downloading Started</b><br><br><img src="https://i.ibb.co/F4X7w7c2/40.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Downloading Notification</b><br><br><img src="https://i.ibb.co/s9yqKRcm/42.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>My Downloads In App</b><br><br><img src="https://i.ibb.co/CpN2K4dH/43.jpg" width="230"/></td>
+  </tr>
+
+  <tr>
+    <td colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Continue Watching</b><br><br><img src="https://i.ibb.co/99QWt3qP/44.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Category Wise Content</b><br><br><img src="https://i.ibb.co/h1m9CyCK/50.jpg" width="230"/></td>
+    <td align="center">&nbsp;</td>
+    <td align="center"><b>Generies Wise Content</b><br><br><img src="https://i.ibb.co/S4xfXmfT/51.jpg" width="230"/></td>
+  </tr>
+  
+</table>
+</kbd>
 
 ---
 
