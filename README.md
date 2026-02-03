@@ -158,7 +158,7 @@ The **Admin Dashboard** provides complete control over every aspect of the Ninfl
   </tr>
 
   <tr>
-    <td align="center"><b>Search</b><br><br><img src="https://i.ibb.co/R4NLLtVL/9.jpg" width="230"/></td>
+    <td align="center"><b>Search</b><br><br><img src="https://i.postimg.cc/wTpvm8R2/9.jpg" width="230"/></td>
     <td align="center">&nbsp;</td>
     <td align="center"><b>More Options</b><br><br><img src="https://i.ibb.co/HLGhg2pG/18.jpg" width="230"/></td>
     <td align="center">&nbsp;</td>
