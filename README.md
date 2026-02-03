@@ -232,7 +232,7 @@ The **Admin Dashboard** provides complete control over every aspect of the Ninfl
   <tr>
     <td align="center"><b>Favourite Channels</b><br><br><img src="https://i.ibb.co/kVGRDgnj/30.jpg" width="230"/></td>
     <td align="center">&nbsp;</td>
-    <td align="center"><b>Mark As Favourite</b><br><br><img src="https://i.ibb.co/ymf29YLw/45.jpg" width="230"/></td>
+    <td align="center"><b>Mark As Favourite</b><br><br><img src="https://i.postimg.cc/PqwsyJB3/45.jpg" width="230"/></td>
     <td align="center">&nbsp;</td>
     <td align="center"><b>View Favourite & Unfavourite</b><br><br><img src="https://i.ibb.co/8DfLZ0Vk/46.jpg" width="230"/></td>
   </tr>
@@ -244,7 +244,7 @@ The **Admin Dashboard** provides complete control over every aspect of the Ninfl
   <tr>
     <td align="center"><b>Country Channels</b><br><br><img src="https://i.ibb.co/pvCTm5Tv/47.jpg" width="230"/></td>
     <td align="center">&nbsp;</td>
-    <td align="center"><b>Streaming Player</b><br><br><img src="https://i.ibb.co/j91McYQf/29.jpg" width="230"/></td>
+    <td align="center"><b>Streaming Player</b><br><br><img src="https://i.ibb.co/bMkc3g74/29.jpg" width="230"/></td>
     <td align="center">&nbsp;</td>
     <td align="center"><b>Search Channels</b><br><br><img src="https://i.ibb.co/PGpFjJYF/48.jpg" width="230"/></td>
   </tr>
@@ -256,7 +256,7 @@ The **Admin Dashboard** provides complete control over every aspect of the Ninfl
   <tr>
     <td align="center"><b>Searched</b><br><br><img src="https://i.ibb.co/zTwNPK8w/49.jpg" width="230"/></td>
     <td align="center">&nbsp;</td>
-    <td align="center"><b>Play Channel</b><br><br><img src="https://i.ibb.co/HpLvskCq/28.jpg" width="230"/></td>
+    <td align="center"><b>Play Channel</b><br><br><img src="https://i.ibb.co/vxqVvqHw/28.jpg" width="230"/></td>
     <td align="center">&nbsp;</td>
     <td align="center"><b>Favourite Serie</b><br><br><img src="https://i.ibb.co/zVmMMFzv/34.jpg" width="230"/></td>
   </tr>
@@ -292,7 +292,7 @@ The **Admin Dashboard** provides complete control over every aspect of the Ninfl
   <tr>
     <td align="center"><b>Multiple Qulaities</b><br><br><img src="https://i.ibb.co/WNbxdckJ/33.jpg" width="230"/></td>
     <td align="center">&nbsp;</td>
-    <td align="center"><b>Play Movie/Serie Player</b><br><br><img src="https://i.ibb.co/p56Yf8G/41.jpg" width="230"/></td>
+    <td align="center"><b>Play Movie/Serie Player</b><br><br><img src="https://i.ibb.co/PGdh3ykY/41.jpg" width="230"/></td>
     <td align="center">&nbsp;</td>
     <td align="center"><b>Download Option & Play</b><br><br><img src="https://i.ibb.co/XrTL2Byb/39.jpg" width="230"/></td>
   </tr>
