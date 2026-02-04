@@ -320,6 +320,14 @@ The **Admin Dashboard** provides complete control over every aspect of the Ninfl
     <td align="center">&nbsp;</td>
     <td align="center"><b>Generies Wise Content</b><br><br><img src="https://i.ibb.co/S4xfXmfT/51.jpg" width="230"/></td>
   </tr>
+
+  <tr>
+    <td colspan="5" align="center">&nbsp;</td>
+  </tr>
+
+  <tr>
+    <td align="center"><b>Watch Ads to Unlock Channel</b><br><br><img src="https://i.ibb.co/0RRP7MN5/52.jpg" width="230"/></td>
+  </tr>
   
 </table>
 </kbd>
